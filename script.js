@@ -20,29 +20,23 @@ document.addEventListener("DOMContentLoaded", function () {
 // Data sertifikat - sesuaikan dengan sertifikat asli Anda
 const certificates = [
   {
-    title: "Pelatihan Desain 2025",
-    image: "img/sertifikat/1.jpeg",
-    description:
-      "Sertifikat Pelatihan Desain 2025 yang diselenggarakan oleh Forum Komunikasi Mahasiswa Bojonegoro.",
-  },
-  {
     title:
       "Latihan Keterampilan Manajemen Mahasiswa Tingkat Dasar (LKMM-TD) 2023",
     image: "img/sertifikat/2.jpeg",
     description:
-      "Sertifikat Latihan Keterampilan Manajemen Mahasiswa Tingkat Dasar (LKMM-TD) 2023 yang diselenggarakan oleh HIMATIKA FMIPA UNESA).",
+      "Sertifikat Latihan Keterampilan Manajemen Mahasiswa Tingkat Dasar (LKMM-TD) 2023 yang diselenggarakan oleh HIMATIKA FMIPA UNESA.",
   },
   {
     title: "Pendidikan dan Pelatihan Kewirausahaan 2024",
     image: "img/sertifikat/3.jpeg",
     description:
-      "Sertifikat Latihan Pendidikan dan Pelatihan Kewirausahaan 2024 yang diselenggarakan oleh FORMADIKSI UNESA).",
+      "Sertifikat Latihan Pendidikan dan Pelatihan Kewirausahaan 2024 yang diselenggarakan oleh FORMADIKSI UNESA.",
   },
   {
     title: "Tryout and Talkshow 2024",
     image: "img/sertifikat/4.jpeg",
     description:
-      "Sertifikat Panitia Tryout and Talkshow 2024 yang diselenggarakan oleh Forum Komunikasi Mahasiswa Bojonegoro).",
+      "Sertifikat Panitia Tryout and Talkshow 2024 yang diselenggarakan oleh Forum Komunikasi Mahasiswa Bojonegoro.",
   },
   {
     title: "Children Coloring Competition 2024",
@@ -54,7 +48,7 @@ const certificates = [
     title: "Attanwir Education Festival 2024",
     image: "img/sertifikat/6.jpeg",
     description:
-      "Sertifikat Panitia Attanwir Education Festival 2024 yang diselenggarakan oleh IKAMI Attanwir).",
+      "Sertifikat Panitia Attanwir Education Festival 2024 yang diselenggarakan oleh IKAMI Attanwir.",
   },
   {
     title: "FKMB Mengajar 2024",
@@ -66,7 +60,7 @@ const certificates = [
     title: "Fest Goworld Asia Futurepreneur Selection Program 2024",
     image: "img/sertifikat/8.jpeg",
     description:
-      "Sertifikat Fest Goworld Asia Futurepreneur Selection Program 2024 yang diselenggarakan oleh FEST Goword dengan BEM UNESA dan Airlangga Convention Center UNAIR.",
+      "Sertifikat Fest Goworld Asia Futurepreneur Selection Program 2024 yang diselenggarakan oleh FEST Goword dengan BEM UNESA di Airlangga Convention Center UNAIR.",
   },
   {
     title: "Sertifikat Pengabdian Masyarakat 2024",
@@ -87,12 +81,6 @@ const certificates = [
       "Sertifikat Pelatihan Entrepreneurship 2024 yang diselenggarakan oleh FESt Regional Surabaya dengan BEM UNESA.",
   },
   {
-    title: "Tryout and Talkshow 2025",
-    image: "img/sertifikat/12.jpeg",
-    description:
-      "Sertifikat Panitia Tryout and Talkshow 2025 yang diselenggarakan oleh Forum Komunikasi Mahasiswa Bojonegoro.",
-  },
-  {
     title: "MCR and LRP 2024",
     image: "img/sertifikat/13.jpeg",
     description:
@@ -109,6 +97,18 @@ const certificates = [
     image: "img/sertifikat/15.jpeg",
     description:
       "Sertifikat Training Public Speaking 2024 yang diselenggarakan oleh FESt Regional Surabaya dengan BEM UNESA.",
+  },
+  {
+    title: "Tryout and Talkshow 2025",
+    image: "img/sertifikat/12.jpeg",
+    description:
+      "Sertifikat Panitia Tryout and Talkshow 2025 yang diselenggarakan oleh Forum Komunikasi Mahasiswa Bojonegoro.",
+  },
+  {
+    title: "Pelatihan Desain 2025",
+    image: "img/sertifikat/1.jpeg",
+    description:
+      "Sertifikat Pelatihan Desain 2025 yang diselenggarakan oleh Forum Komunikasi Mahasiswa Bojonegoro.",
   },
 ];
 
